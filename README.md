@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome to Nakyung's GitHub&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome to Nakyung's GitHub&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=cylinder)
 
 
 <a href="https://github.com/bellakim0843/bellakim0843/blob/main/README.md"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
