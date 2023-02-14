@@ -8,3 +8,6 @@
 
 <a href="https://github.com/bellakim0843/bellakim0843/blob/main/README.md"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://github.com/bellakim0843/bellakim0843/blob/main/README.md"><img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=Neo4j&logoColor=white"/></a>
+
+
+[![Nakyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellakim0843)](https://github.com/bellakim0843/github-readme-stats)
