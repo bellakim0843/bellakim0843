@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text="Welcome to Nakyung"&animation=fadeIn)
 
 
 <a href="https://github.com/bellakim0843/bellakim0843/blob/main/README.md"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
