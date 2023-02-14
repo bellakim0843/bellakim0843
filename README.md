@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=random)
 
 
 <a href="https://github.com/bellakim0843/bellakim0843/blob/main/README.md"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
